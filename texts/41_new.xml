@@ -1,0 +1,1015 @@
+﻿<html>
+	<head />
+	<body>
+		<para id="1">
+			<se lang="ru">В период холодной войны, когда мир был разделен на капиталистический и социалистический лагеря, СССР втайне ото всех создал подробную карту капиталистических стран на случай чрезвычайной ситуации.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="世界" transl="мир свет   мировой всемирный" sem="t:place:other" ortho="kanji">世界</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="資本" transl="капитал" sem="top:business,t:tool:money" ortho="kanji">資本</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="陣営" transl="лагерь в политике и т п " sem="t:orgzt:place:other" ortho="kanji">陣営</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="社会" transl="общество свет мир публика" sem="top:learntop:politics,t:place:other" ortho="kanji">社会</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="圏" transl="Сферасфера пределы" sem="t:place:other" ortho="kanji">圏</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="二分" transl="деление на две части  делить надвое пополам" ortho="kanji">二分</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="冷戦" transl="холодная война" sem="top:politics,t:abstr" ortho="kanji">冷戦</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ソ連" transl="Советский Союз">ソ連</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="Unknown" ud="X" lex="秘密だ" transl="секрет тайна" ortho="kanji">秘密</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="裏" transl="Изнанка оборотная сторона изнанка внутренняя часть суффикс в условиях чего-л  " sem="t:place:functt:abstr" ortho="kanji">裏</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="資本" transl="капитал" sem="top:business,t:tool:money" ortho="kanji">資本</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="国家" transl="государство" sem="top:politics,t:orgz" ortho="kanji">国家</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1,inf" ud="ADJ" lex="精密だ" transl="подробный детальный тщательный точный">精密な</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="作製" transl="производство изготовление" sem="t:abstr" ortho="kanji">作製</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="有事" transl="перевод отсутствует" sem="top:politics,t:abstr" ortho="kanji">有事</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="2">
+			<se lang="ru">Была издана книга «Красный атлас: Как Советский Союз втайне нанес на карту весь мир» (The Red Atlas: How the Soviet Union Secretly Mapped the World), которая вызвала резонанс по всему миру.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="ソ連" transl="Советский Союз">ソ連</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf" ud="VERB" lex="裏付ける" transl="подкреплять подтверждать">裏付ける</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="著書" transl="произведение сочинение труд" sem="top:culttop:media,t:tool:othert:abstr" ortho="kanji">著書</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="世界" transl="мир свет   мировой всемирный" sem="t:place:other" ortho="kanji">世界</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="各国" transl="каждая страна все страны" sem="top:politics,t:place:other" ortho="kanji">各国</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="話題" transl="тема разговора" sem="t:tool:other" ortho="kanji">話題</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>『</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="アトラス" transl="перевод отсутствует" ortho="katakana">アトラス</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM2" ud="ADJ" lex="恐るべき" transl="Страхстрашный">恐るべき</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ソ連" transl="Советский Союз">ソ連</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="世界" transl="мир свет   мировой всемирный" sem="t:place:other" ortho="kanji">世界</ana>
+				</w>
+				<w>』</w>
+				<w>（</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="日経" transl="Никкей" ortho="kanji">日経</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ナショナル" transl=" национальный государственный англ " sem="t:abstr" ortho="katakana">ナショナル</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ジオグラフィック" transl="перевод отсутствует" ortho="katakana">ジオグラフィック</ana>
+				</w>
+				<w>）</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="3">
+			<se lang="ru">В ней на основе этой карты рассказывается о реалиях тоталитарной системы.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="元" transl="Начало начало исток происхождение бывший прежний  раньше прежде основа материал основной капитал себестоимость" sem="t:place:functt:abstr" ortho="hiragana">もと</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="全体" transl=" целое   целый весь общий совокупный тотальный  в целом в общем  всего включая всех всё   в целом в общем в совокупности вообще собственно говоря" sem="t:abstr" ortho="kanji">全体</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="国家" transl="государство" sem="top:politics,t:orgz" ortho="kanji">国家</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="Unknown" ud="X" lex="真実だ" transl="правда реальность">真実に</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="4">
+			<se lang="ru">«Практически никто не знал о существовании такого глобального проекта создания карты.</se>
+			<se lang="ja">
+				<w>「</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="これ" transl="это" ortho="hiragana">これ</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="だけ" transl="служебная частица" ortho="hiragana">だけ</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1,inf" ud="ADJ" lex="壮大だ" transl="кн величественный грандиозный">壮大な</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="作製" transl="производство изготовление" sem="t:abstr" ortho="kanji">作製</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="プロジェクト" transl="перевод отсутствует" sem="top:sciencetop:business,t:abstr" ortho="katakana">プロジェクト</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="殆んど" transl="Почти почти чуть не   почти все" ortho="hiragana">ほとんど</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="人" transl="Человек человек люди личность характер другой другие кто -нибудь  кто-то" sem="t:people" ortho="kanji">人</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="認識" transl="сознание осознание понимание  о сознавать понимать" sem="t:abstr" ortho="kanji">認識</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="5">
+			<se lang="ru">Он включал весь мир и, безусловно, предназначался для военных целей. Также карта применялась в области контроля окружающей среды. Там была информация, которой не обладали даже на местах», — заявил приехавший в Японию автор книги Александр Кент в интервью изданию «Фудзи».</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="世界" transl="мир свет   мировой всемирный" sem="t:place:other" ortho="kanji">世界</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="網羅" transl="охватывать покрывать  полностью  включать  всё" sem="t:abstr" ortho="kanji">網羅</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">する</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="ようだ" transl="перевод неоднозначен酔う опьянеть напиться быть больным от качки и т п 幼 кн детство младенчество様 такой как похожий вроде    так  как подобно будто по-видимому похоже    так  чтобы   после глагола показывает что действие начало совершаться洋 океан в идиомах用 дело надобность-  пригодность польза-  расходы-  естественные надобности- 要 главное основное суть необходимость陽 Ян солнечное светлое мужское начало  положительный  явно открыто освещённая сторона южный склон горы северный берег реки и т п 姚 Яо китайская фамилия曄 Е китайское имя瑶 псевдоним甬 древняя мера ёмкости  то краткое название города Нинбо癰 мед карбункул" ortho="hiragana">ような</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="プロジェクト" transl="перевод отсутствует" sem="top:sciencetop:business,t:abstr" ortho="katakana">プロジェクト</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="軍用" transl="военные нужды   употреблять для нужд армии передавать военному ведомству" sem="top:politics,t:abstr" ortho="kanji">軍用</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="環境" transl="окружающая  среда окружение окружающая обстановка атмосфера" sem="t:abstr" ortho="kanji">環境</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="管理" transl=" управление заведование  управлять заведовать контроль  контролировать осуществлять контроль" sem="t:abstr" ortho="kanji">管理</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="でも" transl="служебная частица" ortho="hiragana">でも</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="利用" transl="использование  пользоваться употреблять использоватьчто-л или кого-л " sem="t:abstr" ortho="kanji">利用</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="現地" transl="на месте на местах" sem="t:place:other" ortho="kanji">現地</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="情報" transl="информация сведения" sem="t:abstr" ortho="kanji">情報</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="まで" transl="служебная частица" ortho="hiragana">まで</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="記載" transl="запись занесение в список и т п  публикация в прессе упоминание  записывать вносить заносить помещать в прессе упоминать в каком-л тексте" sem="t:abstr" ortho="kanji">記載</ana>
+				</w>
+				<w>」</w>
+				<w></w>
+				<w>
+					<ana gr="Unknown" ud="X" lex="緊急だ" transl=" срочный экстренный чрезвычайный" ortho="kanji">緊急</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="来" transl="Приходить приходить прибывать происходить проистекать будущий предстоящий начиная  с  " sem="t:abstr" ortho="kanji">来</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="日本" transl="Япония   японский" ortho="kanji">日</ana>
+				</w>
+				<w>
+					<ana gr="V,3,pfv,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">した</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="著者" transl="автор" sem="top:culttop:sciencetop:media,t:people" ortho="kanji">著者</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>・</w>
+				<w>
+					<ana>Ｊ</ana>
+				</w>
+				<w>・</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="夕刊" transl="вечерний выпуск газеты" sem="top:media,t:tool:other" ortho="kanji">夕刊</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="フジ" transl="Глицинияглициния " ortho="katakana">フジ</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="取材" transl="выбор материала сюжета  выбирать отбирать материал сюжет" sem="top:media,t:abstr" ortho="kanji">取材</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="こう" transl="так" ortho="hiragana">こう</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="6">
+			<se lang="ru">Предполагается, что большой вклад в создание карты, которая была засекречена на протяжении многих лет, внесло управление военных исследований Генштаба Советской армии.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="長年" transl="долгие годы длительный период времени  долголетний многолетний" sem="t:time" ortho="kanji">長年</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="存在" transl="существование бытие  существовать быть" sem="t:abstr" ortho="kanji">存在</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="Unknown" ud="X" lex="秘密だ" transl="секрет тайна" ortho="kanji">秘密</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="多く" transl="Много много большое количество главным образом большей частью" sem="t:abstr">多く</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ソ連" transl="Советский Союз">ソ連</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="軍" transl="Армияармия военный" sem="top:politics,t:orgz" ortho="kanji">軍</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="参謀" transl="штабной офицер штаб" sem="top:politics,t:people" ortho="kanji">参謀</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="本部" transl="главное управление штаб" sem="t:abstr" ortho="kanji">本部</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="軍事" transl="военные делав сочетанияхвоенный" sem="top:politics,t:abstr" ortho="kanji">軍事</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="測量" transl="измерение  топографическая  съёмка промер глубины лотом" sem="t:abstr" ortho="kanji">測量</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="局" transl="Бюро управление бюро департамент почта радиостанция положение ситуация часть счётный суффикс для партий в настольных играх" sem="t:orgzpt:part &amp; pc:place:facil" ortho="kanji">局</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="関与" transl="отношение причастность  иметь отношение быть причастнымк чему-л  принимать участиев чём-л " sem="t:abstr" ortho="kanji">関与</ana>
+				</w>
+				<w>
+					<ana gr="V,3,pfv,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">した</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="7">
+			<se lang="ru">Карта отличается беспрецедентной точностью. Она содержит около 2200 городов в таких странах, как США, Великобритания и многих других.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="類" transl="Сорт род сорт разновидность класс разряд нечто подобное" sem="t:abstr" ortho="kanji">類</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="米国" transl="Америка США" ortho="kanji">米国</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="や" transl="служебная частица" ortho="hiragana">や</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="英国" transl="Великобритания" ortho="kanji">英国</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="など" transl="перевод неоднозначен等 и так далее и тому подобное и другие抔 и так далее и тому подобное и другие" ortho="hiragana">など</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="市街" transl="улицы  города перен город" sem="t:place:other" ortho="kanji">市街</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地" transl="Земля земля почва местность район" sem="t:place:other" ortho="kanji">地</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="8">
+			<se lang="ru">Для государства карты — это важный секрет.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="国家" transl="государство" sem="top:politics,t:orgz" ortho="kanji">国家</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,cnv,tran,conj" ud="VERB" lex="取る" transl="Брать брать взять получать принимать отнимать снимать убирать удалять пониматькак-л  интерпретировать многочисленные связанные значения" ortho="hiragana">とって</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1" ud="ADJ" lex="重要だ" transl="важный серьёзный" ortho="kanji">重要</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="機密" transl="секретная информация тайна" sem="top:politics,t:abstr" ortho="kanji">機密</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="9">
+			<se lang="ru">Как во время холодной войны добывалась информация, необходимая для создания, неизвестно.</se>
+			<se lang="ja">
+				<w>、</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="どのように" transl="перевод отсутствует" ortho="hiragana">どのように</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="情報" transl="информация сведения" sem="t:abstr" ortho="kanji">情報</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="入手" transl="приобретение получение  доставать получать приобретать" sem="t:abstr" ortho="kanji">入手</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="作製" transl="производство изготовление" sem="t:abstr" ortho="kanji">作製</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="か" transl="служебная частица" ortho="kanji,hiragana">か</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="10">
+			<se lang="ru">По некоторым данным, сейчас существует более миллиона экземпляров карты.</se>
+			<se lang="ja">
+				<w>100万</w>
+				<w>
+					<ana gr="SUFFIX!" ud="SUFFIX!" lex="枚" transl="Плоские предметысчётный суффикс для плоских и тонких объектов  листов бумаги досок стёкол тарелок и т п " ortho="kanji">枚</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf" ud="VERB" lex="超える" transl="Сверх-превышать превосходить">超える</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="推測" transl="предположение допущение гипотеза  предполагать делать допущения" sem="t:abstr" ortho="kanji">推測</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="11">
+			<se lang="ru">СССР уже не представляет опасности, но разведдеятельность ведется и после окончания холодной войны, несмотря на то, что название страны изменилось.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="ソ連" transl="Советский Союз">ソ連</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf" ud="VERB" lex="感じる" transl="Чувство чувствовать ощущать быть тронутым">感じる</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="国名" transl="название страны" sem="t:abstr" ortho="kanji">国名</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,cnv,intr,conj" ud="VERB" lex="変わる" transl="Меняться изменяться переменятьсяподвергаться изменениям отличаться разниться быть странным менять адресилиработу">変わって</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="諜報" transl="разведка шпионаж" sem="top:politics,t:abstr" ortho="kanji">諜報</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="活動" transl=" деятельность активность  действовать быть деятельным активным работа функционирование  работать функционировать действовать уст кино" sem="t:abstr" ortho="kanji">活動</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="Unknown" ud="X" lex="脈々たる" transl="Жила пульс жила кровеносный сосуд жила другие значения логическая  связь">脈々と</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="12">
+			<se lang="ru">В июле 2018 года по подозрению в шпионской деятельности министерство юстиции США арестовало гражданку России; в сентябре британская полиция получила ордер на арест двух граждан России, которые подозреваются в организации покушения на убийство.</se>
+			<se lang="ja">
+				<w>2018</w>
+				<w>
+					<ana gr="SUFFIX!" ud="SUFFIX!" lex="年" transl="Год год лета возраст срок период эпоха" sem="t:time" ortho="kanji">年</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="人" transl="Человек человек люди суффикс лица " sem="t:people" ortho="kanji">人</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="女性" transl=" женщина женский пол женственность грам женский род" sem="t:people" ortho="kanji">女性</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="米国" transl="Америка США" ortho="kanji">米</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="司法" transl="юстиция правосудие   юридический" sem="top:politics,t:abstr" ortho="kanji">司法</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="省" transl="МинистерствоРефлексия сокращать министерство провинция в Китае" sem="top:politics,t:orgzt:place:other" ortho="kanji">省</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="工作" transl=" инженерно-строительные работы изготовление оборудования и т п   изготовлять производить строить ручная работа действия подготовка  действовать предпринимать шаги" sem="top:learn,t:abstr" ortho="kanji">工作</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="員" transl="Персоналсотрудник член персонала" sem="t:people" ortho="kanji">員</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,3,cnv,tran,conj" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">して</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="活動" transl=" деятельность активность  действовать быть деятельным активным работа функционирование  работать функционировать действовать уст кино" sem="t:abstr" ortho="kanji">活動</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="疑い" transl="Подозрениесомнение недоверие подозрение">疑い</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="逮捕" transl="арест  арестовать   быть арестованным" sem="top:politics,t:abstr" ortho="kanji">逮捕</ana>
+				</w>
+				<w>、</w>
+				<w>9</w>
+				<w>
+					<ana gr="SUFFIX!" ud="SUFFIX!" lex="月" transl="Месяцлуна месяц" sem="t:time" ortho="kanji">月</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="暗殺" transl="тайное  убийство  убивать" sem="top:politics,t:abstr" ortho="kanji">暗殺</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="未遂" transl="постпоз покушение попыткачего-л " sem="top:politics,t:abstr" ortho="kanji">未遂</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="事件" transl="происшествие событие случай инцидентюр дело" sem="top:politics,t:abstr" ortho="kanji">事件</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="人" transl="Человек человек люди суффикс лица " sem="t:people" ortho="kanji">人</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="逮捕" transl="арест  арестовать   быть арестованным" sem="top:politics,t:abstr" ortho="kanji">逮捕</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="状" transl="Форма положение состояние вид письмо послание" sem="t:abstr" ortho="kanji">状</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,pfv,tran" ud="VERB" lex="取る" transl="Брать брать взять получать принимать отнимать снимать убирать удалять пониматькак-л  интерпретировать многочисленные связанные значения">取った</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="英国" transl="Великобритания" ortho="kanji">英</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="警察" transl="полиция" sem="top:politics,t:orgzt:place:facil" ortho="kanji">警察</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="当局" transl="соответствующие органы надлежащие инстанции" sem="t:orgz" ortho="kanji">当局</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="発表" transl="публикация сообщение" sem="t:abstr" ortho="kanji">発表</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="13">
+			<se lang="ru">Кент отмечает, что доказательств причастности России нет, но было найдено две карты, созданных после распада СССР.</se>
+			<se lang="ja">
+				<w>「</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="証拠" transl=" доказательство улика свидетельство показание на суде" sem="top:politics,t:abstr" ortho="kanji">証拠</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf,tran,conj" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">し</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="ながら" transl="служебная частица" ortho="hiragana">ながら</ana>
+				</w>
+				<w>、</w>
+				<w>「</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ソ連" transl="Советский Союз">ソ連</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="作成" transl="составление изготовление оформление  составлять изготовлять оформлять" sem="t:abstr" ortho="kanji">作成</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="だけ" transl="служебная частица" ortho="hiragana">だけ</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="14">
+			<se lang="ru">Систему обозначений и метод создания сложно отличить от советских.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="記号" transl=" знак символ условное обозначение муз ключ скрипичный басовый и т п " sem="t:abstr" ortho="kanji">記号</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="体系" transl="система схема организация   систематический" sem="t:abstr" ortho="kanji">体系</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="や" transl="служебная частица" ortho="hiragana">や</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="作製" transl="производство изготовление" sem="t:abstr" ortho="kanji">作製</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="手法" transl="техника манера стиль художника и т п " sem="t:abstr" ortho="kanji">手法</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" ortho="hiragana">も</ana>
+				</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="これ" transl="это" ortho="hiragana">これ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="まで" transl="служебная частица" ortho="hiragana">まで</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="区別" transl=" разница различие различение  различатьчто-л  отличатьчто-л от чего-л  подразделение  разделять сортировать" sem="t:abstr" ortho="kanji">区別</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="A,ADPRAEDIC,inf" ud="ADJ" lex="難しい" transl="Трудный трудный тяжёлый сложный сомнительный серьёзный хмурый строгий придирчивыйпривередливый">難しい</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="15">
+			<se lang="ru">Чтобы сделать карту, необходимы громадные объемы информации, поэтому логично, что аналогичная разведдеятельность ведется и сейчас, и в этом нет ничего необычного, полагает Кент.</se>
+			<se lang="ja">
+				<w>（</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="だけ" transl="служебная частица" ortho="hiragana">だけ</ana>
+				</w>
+				<w>）</w>
+				<w>
+					<ana gr="A,ADNOM1,inf" ud="ADJ" lex="膨大だ" transl=" расширение разбуханиемед опухание ">膨大な</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="情報" transl="информация сведения" sem="t:abstr" ortho="kanji">情報</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf" ud="VERB" lex="有る" transl="Иметь быть существовать иметься найтись находиться располагатьсягде-л содержатьсяв чём-л  происходить случаться бывать заключаться состоятьв чём-л сводитьсяк чему-л  указывает на количествонасчитывать иметь размер веситьи т п исп в грамматических конструкциях      - " ortho="hiragana">ある</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="今" transl="Сейчассейчас теперьнынешний теперешнийскоро рано или поздно всё еще вот-вот в любой моментотныне впредь  до сих пор и сейчас" sem="t:time" ortho="kanji">今</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" ortho="hiragana">も</ana>
+				</w>
+				<w>
+					<ana gr="Unknown" ud="X" lex="同様だ" transl=" такой же похожий  так же похоже">同様の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="諜報" transl="разведка шпионаж" sem="top:politics,t:abstr" ortho="kanji">諜報</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="活動" transl=" деятельность активность  действовать быть деятельным активным работа функционирование  работать функционировать действовать уст кино" sem="t:abstr" ortho="kanji">活動</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,2,cnv,conj" ud="VERB" lex="考える" transl="Думатьдумать размышлять полагатьпредставлять себе учитыватьпридумывать намереваться">考えて</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" ortho="hiragana">も</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1,cnv,conj" ud="ADJ" lex="不自然だ" transl="неестественность искусственность">不自然で</ana>
+				</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="推察" transl="предположение догадка  предполагать строить догадки представлять себе" sem="t:abstr" ortho="kanji">推察</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="16">
+			<se lang="ru">Япония также находится под прицелом. В книге представлено особое приложение, касающееся страны восходящего солнца. Там есть карты районов Уэно и Синдзюку, датируемые 1966 годом.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="日本" transl="Япония   японский" ortho="kanji">日本</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" ortho="hiragana">も</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ターゲット" transl="перевод отсутствует" sem="t:tool:other" ortho="katakana">ターゲット</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="だ" transl="предикатив" ortho="hiragana">の</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>「</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="日本" transl="Япония   японский" ortho="kanji">日本</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="版" transl="Издание деревянная  печатная форма клише издание выпуск печать" sem="top:culttop:media,t:tool:othert:quant" ortho="kanji">版</ana>
+				</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="特別" transl="особый специальный особенный исключительный чрезвычайный экстренный  в особенности" ortho="kanji">特別</ana>
+				</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>、</w>
+				<w>1966</w>
+				<w>
+					<ana gr="SUFFIX!" ud="SUFFIX!" lex="年" transl="Год год лета возраст срок период эпоха" sem="t:time" ortho="kanji">年</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="版" transl="Издание деревянная  печатная форма клише издание выпуск печать" sem="top:culttop:media,t:tool:othert:quant" ortho="kanji">版</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="上野" transl="фамилия" ortho="kanji">上野</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="や" transl="служебная частица" ortho="hiragana">や</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="新宿" transl="Синдзюку район в Токио" ortho="kanji">新宿</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="周辺" transl="окружность периферия окрестности подступы  окрестный соседний периферийный" sem="t:place:funct" ortho="kanji">周辺</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="紹介" transl="знакомство представление рекомендация рецензия обзор  знакомить представлять" sem="t:abstr" ortho="kanji">紹介</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="17">
+			<se lang="ru">«Советский образец основан на японских картах. Становится понятно, что Япония также обладала продвинутыми технологиями в области создания карт.</se>
+			<se lang="ja">
+				<w>「</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="元" transl="Начало начало исток происхождение бывший прежний  раньше прежде основа материал основной капитал себестоимость" sem="t:place:functt:abstr" ortho="hiragana">もと</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="日本" transl="Япония   японский" ortho="kanji">日本</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" ortho="hiragana">も</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="作製" transl="производство изготовление" sem="t:abstr" ortho="kanji">作製</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="A,ADPRAEDIC,inf" ud="ADJ" lex="高い" transl="Высокий высокий дорогой громкий">高い</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="技術" transl="техника мастерство искусство технология" sem="top:science,t:abstr" ortho="kanji">技術</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="こと" transl="эксплетив" ortho="hiragana">こと</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="18">
+			<se lang="ru">Можете сами убедиться в точности карты Токио и других регионов», — подчеркивает Кент.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="語" transl="Языкслово речь язык" sem="t:abstr" ortho="kanji">語</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="記載" transl="запись занесение в список и т п  публикация в прессе упоминание  записывать вносить заносить помещать в прессе упоминать в каком-л тексте" sem="t:abstr" ortho="kanji">記載</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="東京" transl="Токио" ortho="kanji">東京</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地図" transl="карта план" sem="top:transp,t:tool:othert:abstr" ortho="kanji">地図</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="その" transl="этот только что упомянутый или относящийся к сфере собеседника его её их" ortho="hiragana">その</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+	</body>
+</html>

@@ -1,0 +1,906 @@
+﻿<html>
+	<head />
+	<body>
+		<para id="1">
+			<se lang="ru">Многие опасаются, что между США и КНДР произойдет военное столкновение, однако журналист Нобухико Отиаи отмечает, что угрозу представляет не только Северная Корея, но и возможное столкновение между США и Россией.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="アメリカ" transl="Америка  американский" ortho="katakana">アメリカ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="北朝鮮" transl="Северная Корея" ortho="kanji">北朝鮮</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf,tran" ud="VERB" lex="因る" transl="Причинапроистекатьиз чего-л " ortho="hiragana">よる</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="武力" transl="сила оружия" sem="top:politics,t:abstr" ortho="kanji">武力</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="衝突" transl=" столкновение напр автомобилей  сталкиваться коллизия конфликт ссора" sem="t:abstr" ortho="kanji">衝突</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="懸念" transl="опасение беспокойство тревога  опасаться беспокоиться" sem="t:abstr" ortho="kanji">懸念</ana>
+				</w>
+				<w>、</w>
+				<w>「</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="朝鮮" transl="Корея" ortho="kanji">朝鮮</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="有事" transl="перевод отсутствует" sem="top:politics,t:abstr" ortho="kanji">有事</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="共に" transl="Совместный" ortho="hiragana">ともに</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="脅威" transl="угроза опасность" sem="t:abstr" ortho="kanji">脅威</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="の" transl="эксплетив" ortho="hiragana">の</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="米国" transl="Америка США" ortho="kanji">米</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" transl="перевод отсутствует" ortho="katakana">ロ</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="衝突" transl=" столкновение напр автомобилей  сталкиваться коллизия конфликт ссора" sem="t:abstr" ortho="kanji">衝突</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf,intr" ud="VERB" lex="起きる" transl="Вставать вставать  на ноги  подниматься просыпаться не спать случаться возникать" sem="top:family">起きる</ana>
+				</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="指摘" transl="указыватьна что-л  показывать пальцем" sem="t:abstr" ortho="kanji">指摘</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">する</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="の" transl="эксплетив" ortho="hiragana">の</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ジャーナリスト" transl="перевод отсутствует" sem="top:media,t:people" ortho="katakana">ジャーナリスト</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="落合" transl="фамилия" ortho="kanji">落合</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="2">
+			<se lang="ru">Как г-н Отиаи отмечает в своей книге «И Америка исчезнет», опубликованной осенью прошлого года, Путин — это мужик, который не может жить без войн.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="昨年" transl="прошлый год в прошлом году" sem="t:time" ortho="kanji">昨年</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="秋" transl="Осеньосень  осенний" sem="t:time" ortho="kanji">秋</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="上梓" transl="цельноблочное книгопечатание книгоиздание" ortho="kanji">上梓</ana>
+				</w>
+				<w>『</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="アメリカ" transl="Америка  американский" ortho="katakana">アメリカ</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>』</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="指摘" transl="указыватьна что-л  показывать пальцем" sem="t:abstr" ortho="kanji">指摘</ana>
+				</w>
+				<w>
+					<ana gr="V,3,pfv,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">した</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="プーチン" transl="перевод отсутствует" ortho="katakana">プーチン</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="戦争" transl="война  воевать сражаться" sem="top:politics,t:abstr" ortho="kanji">戦争</ana>
+				</w>
+				<w>
+					<ana gr="A,ADPRAEDIC,inf" ud="ADJ" lex="仕方が無い" transl=" ничего не поделаешь делать нечего после деепр ужасно нестерпимо после уступит накл незачем ни к чему">仕方がない</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="男" transl="Мужчина мужчина парень  мужской перенмужская честь" sem="t:people" ortho="kanji">男</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="3">
+			<se lang="ru">В 2014 году Путин украл Крым и начал войну с Украиной.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="プーチン" transl="перевод отсутствует" ortho="katakana">プーチン</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="クリミア" transl="топоним" ortho="katakana">クリミア</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="半島" transl="полуостров" sem="t:place:nature" ortho="kanji">半島</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="略奪" transl="мародёрство грабёж  мародёрствовать грабить" sem="t:abstr" ortho="kanji">略奪</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ウクライナ" transl="Украина" ortho="katakana">ウクライナ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="戦争" transl="война  воевать сражаться" sem="top:politics,t:abstr" ortho="kanji">戦争</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="4">
+			<se lang="ru">Более того, он вторгся в Сирию под предлогом защиты Асада от «Исламского государства» (запрещена в РФ — прим. ред.).</se>
+			<se lang="ja">
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="アサド" transl="имя или фамилия" ortho="katakana">アサド</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>（</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="イスラム" transl="перевод отсутствует" ortho="katakana">イスラム</ana>
+				</w>
+				<w>）</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="攻撃" transl=" нападение атака штурм  нападать нападки критика спорт атакабейсболотбивание" sem="t:abstr" ortho="kanji">攻撃</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="から" transl="служебная частица" ortho="hiragana">から</ana>
+				</w>
+				<w>
+					<ana gr="V,g,1,inf" ud="VERB" lex="防ぐ" transl="Предотвращать обороняться защищаться предупреждать предотвращать">防ぐ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="言う" transl="Слово говорить сказать -называться" ortho="hiragana">いう</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="口実" transl="предлог отговорка   под предлогом под видом" sem="t:abstr" ortho="kanji">口実</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="シリア" transl="Сирия  сирийский" ortho="katakana">シリア</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="介入" transl="кн вмешательство  вмешиваться" sem="t:abstr" ortho="kanji">介入</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="5">
+			<se lang="ru">Этот человек считает себя верховным правителем мира.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="PRO" ud="PRON" lex="あの" transl="Онисп в  местоимениях" ortho="hiragana">あの</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="男" transl="Мужчина мужчина парень  мужской перенмужская честь" sem="t:people" ortho="kanji">男</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="自分" transl=" сам  свой личный собственный  самому себе  сам лично самостоятельно я  сам" sem="t:people" ortho="kanji">自分</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="世界" transl="мир свет   мировой всемирный" sem="t:place:other" ortho="kanji">世界</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="覇者" transl=" властелин гегемон чемпион" sem="t:people" ortho="kanji">覇者</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="だ" transl="предикатив" ortho="hiragana">だ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="6">
+			<se lang="ru">Есть вероятность, что американские ракетные удары приведут к российско-американскому столкновению в Сирии.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="米軍" transl="американская армия американские войска вооруженные силы" sem="top:politics,t:orgz" ortho="kanji">米軍</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ミサイル" transl="воен ракета англ    ракетный" sem="top:politics,t:tool:other" ortho="katakana">ミサイル</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="攻撃" transl=" нападение атака штурм  нападать нападки критика спорт атакабейсболотбивание" sem="t:abstr" ortho="kanji">攻撃</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="シリア" transl="Сирия  сирийский" ortho="katakana">シリア</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="米国" transl="Америка США" ortho="kanji">米</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" transl="перевод отсутствует" ortho="katakana">ロ</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="衝突" transl=" столкновение напр автомобилей  сталкиваться коллизия конфликт ссора" sem="t:abstr" ortho="kanji">衝突</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf,intr" ud="VERB" lex="繋がる" transl="Привязывать быть привязаннымбыть прикрепленным быть связаннымс чем-л  следовать один за другим" ortho="hiragana">つながる</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="7">
+			<se lang="ru">Поскольку дело касается Путина и Трампа, которые не отличаются искренностью, есть даже опасность, что конфликт превратится в полномасштабную войну.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="トランプ" transl="игральные карты англ козырь" sem="top:recrea,t:tool:other" ortho="katakana">トランプ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="プーチン" transl="перевод отсутствует" ortho="katakana">プーチン</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="言う" transl="Слово говорить сказать -называться" ortho="hiragana">いう</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1,cnv,conj" ud="ADJ" lex="まともだ" transl=" перёд  прямо честный прямой" ortho="hiragana">まともで</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="こと" transl="эксплетив" ortho="hiragana">こと</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="だ" transl="предикатив" ortho="hiragana">だ</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="それ" transl="это то" ortho="hiragana">それ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="戦争" transl="война  воевать сражаться" sem="top:politics,t:abstr" ortho="kanji">戦争</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="発展" transl=" развитие развёртывание  развиваться развёртываться процветать разгульный образ жизни  гулять прожигать жизнь" sem="t:abstr" ortho="kanji">発展</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">する</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="こと" transl="эксплетив" ortho="hiragana">こと</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="さえ" transl="служебная частица" ortho="hiragana">さえ</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="懸念" transl="опасение беспокойство тревога  опасаться беспокоиться" sem="t:abstr" ortho="kanji">懸念</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="8">
+			<se lang="ru">В ходе выступления в позапрошлом году Уильям Перри (William Perry), служивший министром обороны при администрации Клинтона, заявил: «Велика вероятность того, что между Россией и США разразится ядерная война».</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="クリントン" transl="имя или фамилия" ortho="katakana">クリントン</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="政権" transl="политическая государственная власть" sem="top:politics,t:abstr" ortho="kanji">政権</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="国防" transl="государственная национальная оборона" sem="top:politics,t:abstr" ortho="kanji">国防</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="長官" transl="начальник директор глава" sem="top:politics,t:people" ortho="kanji">長官</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,2,pfv" ud="VERB" lex="務める" transl="Делаисполнять обязанности">務めた</ana>
+				</w>
+				<w>・</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" ortho="hiragana">も</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="一昨年" transl="позапрошлый год" sem="t:time" ortho="kanji">一昨年</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="講演" transl="лекция выступление речь  выступать читать лекцию" sem="top:culttop:politics,t:abstr" ortho="kanji">講演</ana>
+				</w>
+				<w>、</w>
+				<w>「</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="アメリカ" transl="Америка  американский" ortho="katakana">アメリカ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="間" transl="Интервал промежуток расстояние период времени между среди в течение пока" ortho="kanji">間</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="核" transl="Ядро косточка плода ядрышко ядро атома  ядерный" sem="top:sciencetop:politicstop:unspec,t:abstr" ortho="kanji">核</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="戦争" transl="война  воевать сражаться" sem="top:politics,t:abstr" ortho="kanji">戦争</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf,intr" ud="VERB" lex="起きる" transl="Вставать вставать  на ноги  подниматься просыпаться не спать случаться возникать" sem="top:family">起きる</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="9">
+			<se lang="ru">Сейчас слова Перри стали звучать реалистичнее.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主張" transl="утверждение мнение позиция  утверждать настаиватьна чём-л  отстаивать защищать" sem="t:abstr" ortho="kanji">主張</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="信憑性" transl="кн достоверность надёжность сообщений и т п " sem="t:abstr" ortho="kanji">信憑性</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="10">
+			<se lang="ru">Сам Путин оказался лицом к лицу с террористической угрозой со стороны ИГ.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="プーチン" transl="перевод отсутствует" ortho="katakana">プーチン</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="自身" transl="сам само  свой личный  сам лично самостоятельно" sem="t:people" ortho="kanji">自身</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" transl="перевод отсутствует">IS</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf,tran" ud="VERB" lex="因る" transl="Причинапроистекатьиз чего-л " ortho="hiragana">よる</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="テロ" transl="сокр терроризм террор   террористический" sem="top:politics,t:abstr" ortho="katakana">テロ</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="脅威" transl="угроза опасность" sem="t:abstr" ortho="kanji">脅威</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="11">
+			<se lang="ru">Теракт в петербургском метро, осуществленный 3 апреля, шокировал Путина.</se>
+			<se lang="ja">
+				<w>4</w>
+				<w>
+					<ana gr="SUFFIX!" ud="SUFFIX!" lex="月" transl="Месяцлуна месяц" sem="t:time" ortho="kanji">月</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="サンクトペテルブルク" transl="топоним" ortho="katakana">サンクトペテルブルク</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="地下鉄" transl="перевод отсутствует" sem="top:transp,t:tool:transp" ortho="kanji">地下鉄</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="V,2,pfv,intr" ud="VERB" lex="起きる" transl="Вставать вставать  на ноги  подниматься просыпаться не спать случаться возникать" sem="top:family">起きた</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="爆弾" transl="бомба" sem="top:politics,t:tool:other" ortho="kanji">爆弾</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="テロ" transl="сокр терроризм террор   террористический" sem="top:politics,t:abstr" ortho="katakana">テロ</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="プーチン" transl="перевод отсутствует" ortho="katakana">プーチン</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM2" ud="ADJ" lex="大きな" transl="Большойто же">大きな</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="衝撃" transl=" столкновение удар толчок  сталиваться ударять толкать толчок импульс шок потрясение физ электронная  бомбардировка" sem="t:abstr" ortho="kanji">衝撃</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,2,pfv" ud="VERB" lex="受ける" transl="Принимать принимать получать наследовать подвергатьсячему-л  ловить парировать быть принятым иметь успех быть обращённымкуда-л ">受けた</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="12">
+			<se lang="ru">Взрыв прогремел, когда российский лидер находился в Санкт-Петербурге.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="テロ" transl="сокр терроризм террор   террористический" sem="top:politics,t:abstr" ortho="katakana">テロ</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="プーチン" transl="перевод отсутствует" ortho="katakana">プーチン</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="サンクトペテルブルク" transl="топоним" ortho="katakana">サンクトペテルブルク</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="13">
+			<se lang="ru">Подозреваемый — гражданин Киргизии. Предполагается, что он связан с «Исламским государством».</se>
+			<se lang="ja">
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="キルギス" transl="перевод отсутствует" ortho="katakana">キルギス</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="出身" transl="суф родомоткуда-л  выпускник какого-л университета и т п " sem="t:abstr" ortho="kanji">出身</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" transl="перевод отсутствует">IS</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="関係" transl=" отношение касательство связь     относиться иметь отношение состоять в связи быть причастнымк чему-л   безотносительнок чему-л  причастность  быть причастным иметь касательство влияние   иметь влияниена что-л  половая  связь" sem="t:abstr" ortho="kanji">関係</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="取り" transl="Брать брать получать действие орудие деятель усилительный глагольный префикс  идиоматические сочетания">取り</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="沙汰" transl=" указания распоряжения директивы сообщение известие   извещать уведомлять дело вопрос" sem="t:abstr" ortho="kanji">沙汰</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="14">
+			<se lang="ru">В России сейчас многие молодые люди подвергаются влиянию ИГ. В Сирии и других странах они контактируют с ИГ, обучаются подготовке терактов и возвращаются домой.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="多く" transl="Много много большое количество главным образом большей частью" sem="t:abstr">多く</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="若者" transl="молодой человек молодёжь" sem="t:people" ortho="kanji">若者</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" transl="перевод отсутствует">IS</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="影響" transl="влияние воздействие  влиять воздействовать-под влияниемкого-чего-л " sem="t:abstr" ortho="kanji">影響</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="シリア" transl="Сирия  сирийский" ortho="katakana">シリア</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="など" transl="перевод неоднозначен等 и так далее и тому подобное и другие抔 и так далее и тому подобное и другие" ortho="hiragana">など</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" transl="перевод отсутствует">IS</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="接触" transl="контакт соприкосновение  контактировать" sem="t:abstr" ortho="kanji">接触</ana>
+				</w>
+				<w>
+					<ana gr="V,3,cnv,tran,conj" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">して</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="テロ" transl="сокр терроризм террор   террористический" sem="top:politics,t:abstr" ortho="katakana">テロ</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="方法" transl="способ метод средство методика система" sem="t:abstr" ortho="kanji">方法</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="など" transl="перевод неоднозначен等 и так далее и тому подобное и другие抔 и так далее и тому подобное и другие" ortho="hiragana">など</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="訓練" transl="тренировка обучение упражнения  тренировать обучать готовить" sem="t:abstr" ortho="kanji">訓練</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="帰国" transl="возвращение на родину  возвращаться на родину" sem="top:transp,t:abstr" ortho="kanji">帰国</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="15">
+			<se lang="ru">Появилось множество недовольных элементов с бомбами в руках.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="爆弾" transl="бомба" sem="top:politics,t:tool:other" ortho="kanji">爆弾</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,t,1,pfv" ud="VERB" lex="持つ" transl="Держать держать в руках иметь при себе иметь владеть нести расходы обязанности сохраняться держаться носиться">持った</ana>
+				</w>
+				<w>
+					<ana gr="Unknown" ud="X" lex="不満だ" transl="недовольство неудовлетворённость  недовольный неудовлетворительный" ortho="kanji">不満</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="分子" transl=" молекула мат числитель элемент общества и т п " sem="top:science,t:nature" ortho="kanji">分子</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="多数" transl=" большое количество множество  многочисленный большинство" sem="t:quant" ortho="kanji">多数</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf" ud="VERB" lex="射る" transl="Стрелять стрелять из лука попадать в цель и т п  тж перен " ortho="hiragana">いる</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="言う" transl="Слово говорить сказать -называться" ortho="hiragana">いう</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="状況" transl="ситуация обстановка положение дел" sem="t:abstr" ortho="kanji">状況</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="16">
+			<se lang="ru">Скорее всего в России повторятся теракты, подобные петербургскому.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="サンクトペテルブルク" transl="топоним" ortho="katakana">サンクトペテルブルク</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="V,2,pfv,intr" ud="VERB" lex="起きる" transl="Вставать вставать  на ноги  подниматься просыпаться не спать случаться возникать" sem="top:family">起きた</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="ようだ" transl="перевод неоднозначен酔う опьянеть напиться быть больным от качки и т п 幼 кн детство младенчество様 такой как похожий вроде    так  как подобно будто по-видимому похоже    так  чтобы   после глагола показывает что действие начало совершаться洋 океан в идиомах用 дело надобность-  пригодность польза-  расходы-  естественные надобности- 要 главное основное суть необходимость陽 Ян солнечное светлое мужское начало  положительный  явно открыто освещённая сторона южный склон горы северный берег реки и т п 姚 Яо китайская фамилия曄 Е китайское имя瑶 псевдоним甬 древняя мера ёмкости  то краткое название города Нинбо癰 мед карбункул" ortho="hiragana">ような</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="テロ" transl="сокр терроризм террор   террористический" sem="top:politics,t:abstr" ortho="katakana">テロ</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="今後" transl="в дальнейшем впредь отныне впоследствии  будущий предстоящий дальнейший" sem="t:time" ortho="kanji">今後</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" ortho="hiragana">も</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="17">
+			<se lang="ru">Экономика забуксовала, люди напуганы террором. Путин может начать войну, чтобы уйти от критики.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="経済" transl=" экономика   экономический финансовый экономичность   быть экономным сберегатьчто-л " sem="top:businesstop:politics,t:abstr" ortho="kanji">経済</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf,intr,conj" ud="VERB" lex="落ちる" transl="Падать падать сваливаться обрушиться развалиться понижаться падать быть ниже хужечего-л  выпасть быть пропущенным в тексте проваливаться на экзамене выборах попадаться в руки заходить о солнце и луне впадать о реках стихать о ветре спускаться вниз по течению о рыбе сходить о пятне линять о краске пасть о крепости упасть без чувств умереть устбежать из столицы">落ち</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="国民" transl="народ нация граждане   народный национальный" sem="top:politics,t:people" ortho="kanji">国民</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="テロ" transl="сокр терроризм террор   террористический" sem="top:politics,t:abstr" ortho="katakana">テロ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf" ud="VERB" lex="怯える" transl="Содрогатьсяпугаться">怯える</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="中" transl="Середина середина внутренняя часть  внутри в среди между времячего-л  разгарчего-л " ortho="kanji">中</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="プーチン" transl="перевод отсутствует" ortho="katakana">プーチン</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="批判" transl="критика  критиковать" sem="t:abstr" ortho="kanji">批判</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="矛先" transl=" остриё пики объект нападения обр убедительность аргументов" sem="t:place:other" ortho="kanji">矛先</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,s,1,inf,tran" ud="VERB" lex="ずらす" transl="сдвигать менять" ortho="hiragana">ずらす</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="為" transl="Делать -для ради чтобы -благодаря из-за связ польза интересы пойти на пользу" ortho="hiragana">ため</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="戦争" transl="война  воевать сражаться" sem="top:politics,t:abstr" ortho="kanji">戦争</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf,tran" ud="VERB" lex="始める" transl="Началоначинать">始める</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="十分" transl="достаточно вдоволь вполне  достаточный полный" ortho="kanji">十分</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="18">
+			<se lang="ru">Сейчас мир движется в направлении различных региональных войн.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="今" transl="Сейчассейчас теперьнынешний теперешнийскоро рано или поздно всё еще вот-вот в любой моментотныне впредь  до сих пор и сейчас" sem="t:time" ortho="hiragana">いま</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="世界" transl="мир свет   мировой всемирный" sem="t:place:other" ortho="kanji">世界</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="あちこち" transl="тут и там там и сям туда-сюда" ortho="hiragana">あちこち</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="戦争" transl="война  воевать сражаться" sem="top:politics,t:abstr" ortho="kanji">戦争</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="向かう" transl="Направленность быть обращеннымкуда-л  идти противкого-чего-л  направляться отправляться развиваться в сторонучего-л ">向かう</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="動き" transl="Двигаться движение развитие тенденция">動き</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="加速" transl="ускорение  ускорять ся" sem="t:abstr" ortho="kanji">加速</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+	</body>
+</html>

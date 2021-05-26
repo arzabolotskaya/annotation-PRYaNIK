@@ -1,0 +1,1319 @@
+﻿<html>
+	<head />
+	<body>
+		<para id="1">
+			<se lang="ru">Нельзя позволять правительству России, которое возглавляет президент Владимир Путин, оправдывать агрессию…</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="プーチン" transl="перевод отсутствует" ortho="katakana">プーチン</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="大統領" transl="президент страны" sem="top:politics,t:people" ortho="kanji">大統領</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf" ud="VERB" lex="率いる" transl="ПоказательПредводительствоватьпредводительствовать командовать">率いる</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="政府" transl="правительство" sem="top:politics,t:orgz" ortho="kanji">政府</ana>
+				</w>
+				<w>「</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="2">
+			<se lang="ru">Такое заявление содержится в резолюции Европарламента «О важности европейской памяти для будущего Европы», которая была принята 19 сентября 2019 года, в 80-ю годовщину начала Второй мировой войны.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="世界" transl="мир свет   мировой всемирный" sem="t:place:other" ortho="kanji">世界</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="大戦" transl="мировая война большая великая война" sem="top:politics,t:abstr" ortho="kanji">大戦</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="勃発" transl="вспышка войны эпидемии и т п   разразиться вспыхнуть" sem="t:abstr" ortho="kanji">勃発</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf,intr" ud="VERB" lex="当たる" transl="Данный попадать  в цель  ударяться попадать под дождь и т п  оказываться правильнымбыть угаданным сбываться удаваться иметь успех соответствовать равнятьсячему-л приходитьсякому-л кем-л падатьна какой-л день подходить быть уместным противостоять бороться отравитьсячем-л  прозондировать разузнать доставаться быть возложенным лежать в каком-л направлении как опред ближайший о дате  плохо обращатьсяс кем-л  быть попорченным о фруктах бриться- " ortho="hiragana">あたる</ana>
+				</w>
+				<w>、</w>
+				<w>（</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>）</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="NUM" ud="NUM" lex="一" sem="t:quant" ortho="kanji,digit">一</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="組織" transl=" организация формирование  организовывать формировать составлять структура строение система организация биол ткань" sem="t:orgz" ortho="kanji">組織</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="だ" transl="предикатив" ortho="hiragana">である</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="議会" transl="законодательное собрание парламент" sem="top:politics,t:orgz" ortho="kanji">議会</ana>
+				</w>
+				<w>「</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="未来" transl=" сущ будущее грядущее  будущий грядущий наступающий   с  большим  будущим многообещающий  в будущем будд будущее существование грам будущее время" sem="t:time" ortho="kanji">未来</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,2,pfv,tran" ud="VERB" lex="向ける" transl="Направленность поворачивать обращать посылать направлять предназначать">向けた</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1,inf" ud="ADJ" lex="重要だ" transl="важный серьёзный">重要な</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf" ud="VERB" lex="題する" transl="Темаиметь заглавие называтьсякак-л ">題する</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="決議" transl="решение резолюция  принимать решение выносить резолюцию" sem="top:politics,t:abstr" ortho="kanji">決議</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="こう" transl="так" ortho="hiragana">こう</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主張" transl="утверждение мнение позиция  утверждать настаиватьна чём-л  отстаивать защищать" sem="t:abstr" ortho="kanji">主張</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="3">
+			<se lang="ru">Складывается впечатление, что в Европе всю ответственность за войну обычно возлагают на нацистскую Германию, однако на самом деле там также жестко высказываются против коммунизма.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="ヨーロッパ" transl="топоним" ortho="katakana">ヨーロッパ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="言う" transl="Слово говорить сказать -называться" ortho="hiragana">いう</ana>
+				</w>
+				<w>、</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ドイツ" transl="Германия  немецкий" ortho="katakana">ドイツ</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="戦争" transl="война  воевать сражаться" sem="top:politics,t:abstr" ortho="kanji">戦争</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="責任" transl="ответственность" sem="t:abstr" ortho="kanji">責任</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="ばかり" transl="служебная частица" ortho="hiragana">ばかり</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="追及" transl=" догнать нагнатького-л  допытываться добиваться ответа признания ответственности и т п  " sem="top:politics,t:abstr" ortho="kanji">追及</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="印象" transl="впечатление" sem="t:abstr" ortho="kanji">印象</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf" ud="VERB" lex="有る" transl="Иметь быть существовать иметься найтись находиться располагатьсягде-л содержатьсяв чём-л  происходить случаться бывать заключаться состоятьв чём-л сводитьсяк чему-л  указывает на количествонасчитывать иметь размер веситьи т п исп в грамматических конструкциях      - " ortho="hiragana">ある</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="実は" transl="Настоящий настоящий реальный истинный практический прямота искренность верность родной плод">実は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="共産" transl="общность имуществав сочетанияхкоммунистический" sem="top:politics,t:abstr" ortho="kanji">共産</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,3,cnv,conj" ud="VERB" lex="対する" transl="Противпо отношению к    против">対して</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" ortho="hiragana">も</ana>
+				</w>
+				<w>
+					<ana gr="A,ADPRAEDIC,inf,conj" ud="ADJ" lex="強い" transl="Сильныйсильный крепкий прочный">強く</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="反発" transl=" отталкивать отбрасывать отскакивать отталкиваться неприятие негативная реакция отпор  сопротивляться противодействовать бирж оживляться вновь расти о курсе и т п  " sem="t:abstr" ortho="kanji">反発</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="4">
+			<se lang="ru">Изначально движение в направлении формирования Европейского союза (ЕС) возникло для того, чтобы защитить свободу и демократию от двух тоталитарных стран: нацисткой Германии и коммунистического СССР.</se>
+			<se lang="ja">
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ＥＵ" transl="перевод отсутствует">ＥＵ</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="結成" transl="образование формирование  образовывать организовывать формировать" sem="t:abstr" ortho="kanji">結成</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf" ud="VERB" lex="至る" transl="Наиболеедоходить достигать" ortho="hiragana">いたる</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="動き" transl="Двигаться движение развитие тенденция">動き</ana>
+				</w>
+				<w>、</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ドイツ" transl="Германия  немецкий" ortho="katakana">ドイツ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="共産" transl="общность имуществав сочетанияхкоммунистический" sem="top:politics,t:abstr" ortho="kanji">共産</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="体制" transl=" система структура организация строй истэблишмент правящие круги система" sem="t:abstr" ortho="kanji">体制</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="言う" transl="Слово говорить сказать -называться" ortho="hiragana">いう</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="全体" transl=" целое   целый весь общий совокупный тотальный  в целом в общем  всего включая всех всё   в целом в общем в совокупности вообще собственно говоря" sem="t:abstr" ortho="kanji">全体</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="A,ADNOM1" ud="ADJ" lex="自由だ" transl="свобода  свободный  свободно без стеснения" ortho="kanji">自由</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="民主" transl="в сочетанияхдемократический" sem="top:politics,t:abstr" ortho="kanji">民主</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf" ud="VERB" lex="守る" transl="Охранять защищать охранять соблюдать выполнять хранить договор обещание ">守る</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="為" transl="Делать -для ради чтобы -благодаря из-за связ польза интересы пойти на пользу" ortho="hiragana">ため</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,2,pfv,intr" ud="VERB" lex="生まれる" transl="Жизньродиться">生まれた</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="動き" transl="Двигаться движение развитие тенденция">動き</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="だ" transl="предикатив" ortho="hiragana">な</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="5">
+			<se lang="ru">В вышеуказанной резолюции отмечается:</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="前述" transl="кн вышеизложенный вышеуказанный" sem="t:abstr" ortho="kanji">前述</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="決議" transl="решение резолюция  принимать решение выносить резолюцию" sem="top:politics,t:abstr" ortho="kanji">決議</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="こう" transl="так" ortho="hiragana">こう</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="指摘" transl="указыватьна что-л  показывать пальцем" sem="t:abstr" ortho="kanji">指摘</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="6">
+			<se lang="ru">«Европейская интеграция с самого начала была ответом на страдания, причиненные двумя мировыми войнами и нацистской тиранией, которая привела к Холокосту и возникновению тоталитарных и недемократических коммунистических режимов в странах Центральной и Восточной Европы, а также поиском средств для преодоления глубоких разногласий и враждебности в Европе на основе сотрудничества и интеграции, для прекращения войн и обеспечения демократии в Европе».</se>
+			<se lang="ja">
+				<w>《</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="統合" transl="кн объединение слияние   объединённый соединённый сводный  объединять соединять консолидировать" sem="t:abstr" ortho="kanji">統合</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="始め" transl="Началоначало">始め</ana>
+				</w>
+				<w>、</w>
+				<w>2</w>
+				<w>
+					<ana gr="SUFFIX!" ud="SUFFIX!" lex="つ" transl=" гавань переправа Цу город центр префектуры Миэ" ortho="hiragana">つ</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="世界" transl="мир свет   мировой всемирный" sem="t:place:other" ortho="kanji">世界</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="大戦" transl="мировая война большая великая война" sem="top:politics,t:abstr" ortho="kanji">大戦</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,cnv,tran,conj" ud="VERB" lex="因る" transl="Причинапроистекатьиз чего-л " ortho="hiragana">よって</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="苦しみ" transl="Горькийстрадания мучения">苦しみ</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ホロコースト" transl="перевод отсутствует" ortho="katakana">ホロコースト</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,s,1,pfv" ud="VERB" lex="もたらす" transl="Влечь за собой приносить уносить влечь за собой вызыватьпорождать" ortho="hiragana">もたらした</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ナチス" transl="ист наци нацист ы нем   нацистский" ortho="katakana">ナチス</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="圧政" transl="угнетение тирания деспотизм" sem="top:politics,t:abstr" ortho="kanji">圧政</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="中国" transl=" Китай  китайский Тюгоку регион Японии запад острова Хонсю" ortho="kanji">中</ana>
+				</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="東" transl="Востоквосток  восточный" sem="t:place:funct" ortho="kanji">東</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ヨーロッパ" transl="топоним" ortho="kanji">欧</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="へ" transl="служебная частица" ortho="hiragana">へ</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="全体" transl=" целое   целый весь общий совокупный тотальный  в целом в общем  всего включая всех всё   в целом в общем в совокупности вообще собственно говоря" sem="t:abstr" ortho="kanji">全体</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="共産" transl="общность имуществав сочетанияхкоммунистический" sem="top:politics,t:abstr" ortho="kanji">共産</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="体制" transl=" система структура организация строй истэблишмент правящие круги система" sem="t:abstr" ortho="kanji">体制</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="拡大" transl=" увеличение  увеличивать укрупнять расширение  расширять эскалация  наращивать обострять" sem="t:abstr" ortho="kanji">拡大</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="へ" transl="служебная частица" ortho="hiragana">へ</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="対応" transl=" соответствие эквивалентность  соответствоватькак опред соответствущий эквивалентный -иметь дело справлятьсяс чем-л " sem="t:abstr" ortho="kanji">対応</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="だ" transl="предикатив" ortho="hiragana">であった</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf" ud="VERB" lex="置ける" transl="Класть" ortho="hiragana">おける</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1,inf" ud="ADJ" lex="深刻だ" transl="глубокий серьёзный острый">深刻な</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="分断" transl="перевод неоднозначен分団 отделение филиал организации общества группа учебная спортивная文壇 литературные круги" sem="t:abstr" ortho="kanji">分断</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="敵意" transl="враждебность неприязнь   враждебный" sem="t:abstr" ortho="kanji">敵意</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="協力" transl="сотрудничество взаимодействие  сотрудничать работать вместе" sem="t:abstr" ortho="kanji">協力</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="統合" transl="кн объединение слияние   объединённый соединённый сводный  объединять соединять консолидировать" sem="t:abstr" ortho="kanji">統合</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,cnv,tran,conj" ud="VERB" lex="因る" transl="Причинапроистекатьиз чего-л " ortho="hiragana">よって</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,k,1,cnv,conj" ud="VERB" lex="置く" transl="Класть класть ставить помещать оставлять  как есть держать хранить учреждать открывать назначать ставить  на должность оставлять промежутки после деепр делать заранее" ortho="hiragana">おいて</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="戦争" transl="война  воевать сражаться" sem="top:politics,t:abstr" ortho="kanji">戦争</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="民主" transl="в сочетанияхдемократический" sem="top:politics,t:abstr" ortho="kanji">民主</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf" ud="VERB" lex="守る" transl="Охранять защищать охранять соблюдать выполнять хранить договор обещание ">守る</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="方法" transl="способ метод средство методика система" sem="t:abstr" ortho="kanji">方法</ana>
+				</w>
+				<w>》</w>
+			</se>
+		</para>
+		<para id="7">
+			<se lang="ru">Следовательно, важно сохранить в памяти преступления двух тоталитарных режимов: нацисткой Германии и коммунизма.</se>
+			<se lang="ja">
+				<w>、</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ドイツ" transl="Германия  немецкий" ortho="katakana">ドイツ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="共産" transl="общность имуществав сочетанияхкоммунистический" sem="top:politics,t:abstr" ortho="kanji">共産</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="言う" transl="Слово говорить сказать -называться" ortho="hiragana">いう</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="全体" transl=" целое   целый весь общий совокупный тотальный  в целом в общем  всего включая всех всё   в целом в общем в совокупности вообще собственно говоря" sem="t:abstr" ortho="kanji">全体</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>「</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="記憶" transl="память  помнить запоминать" sem="t:abstr" ortho="kanji">記憶</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,3,cnv,tran,conj" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">して</ana>
+				</w>
+				<w>
+					<ana gr="V,s,1,inf,tran" ud="VERB" lex="残す" transl="Оставатьсяоставлять">残す</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="こと" transl="эксплетив" ortho="hiragana">こと</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1,inf" ud="ADJ" lex="重要だ" transl="важный серьёзный">重要だ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,3,cnv,tran,conj" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">して</ana>
+				</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="こう" transl="так" ortho="hiragana">こう</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="指摘" transl="указыватьна что-л  показывать пальцем" sem="t:abstr" ortho="kanji">指摘</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="8">
+			<se lang="ru">Соответственно отмечается: «В то время как память о жертвах тоталитарных режимов, признание и повышение осведомленности об общем европейском наследии преступлений, совершенных коммунистическими, нацистскими и другими диктатурами, имеют жизненно важное значение для единства Европы и ее народа, а также для повышения устойчивости Европы к современным внешним угрозам».</se>
+			<se lang="ja">
+				<w>《</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="全体" transl=" целое   целый весь общий совокупный тотальный  в целом в общем  всего включая всех всё   в целом в общем в совокупности вообще собственно говоря" sem="t:abstr" ortho="kanji">全体</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="体制" transl=" система структура организация строй истэблишмент правящие круги система" sem="t:abstr" ortho="kanji">体制</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="記憶" transl="память  помнить запоминать" sem="t:abstr" ortho="kanji">記憶</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="共産" transl="общность имуществав сочетанияхкоммунистический" sem="top:politics,t:abstr" ortho="kanji">共産</ana>
+				</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ナチス" transl="ист наци нацист ы нем   нацистский" ortho="katakana">ナチス</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="および" transl="служебная частица" ortho="hiragana">および</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="他" transl="Другойдругие остальные" sem="t:abstr" ortho="kanji">他</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="独裁" transl="диктатура автократия деспотизм" sem="top:politics,t:abstr" ortho="kanji">独裁</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="体制" transl=" система структура организация строй истэблишмент правящие круги система" sem="t:abstr" ortho="kanji">体制</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,cnv,tran,conj" ud="VERB" lex="因る" transl="Причинапроистекатьиз чего-л " ortho="hiragana">よって</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="犯罪" transl="преступление" sem="top:politics,t:abstr" ortho="kanji">犯罪</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="言う" transl="Слово говорить сказать -называться" ortho="hiragana">いう</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="Unknown" ud="X" lex="共通だ" transl=" общий">共通の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="遺産" transl="наследство завещанное имущество" sem="top:culttop:family,t:tool:money" ortho="kanji">遺産</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="認識" transl="сознание осознание понимание  о сознавать понимать" sem="t:abstr" ortho="kanji">認識</ana>
+				</w>
+				<w>
+					<ana gr="V,3,cnv,tran,conj" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">して</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="関心" transl="интерес заинтересованность" sem="t:abstr" ortho="kanji">関心</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf,tran" ud="VERB" lex="高める" transl="Высокийповышать">高める</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="こと" transl="эксплетив" ortho="hiragana">こと</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="および" transl="служебная частица" ortho="hiragana">および</ana>
+				</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="その" transl="этот только что упомянутый или относящийся к сфере собеседника его её их" ortho="hiragana">その</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="人々" transl="Человеклюди народ" sem="t:people" ortho="kanji">人々</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="統合" transl="кн объединение слияние   объединённый соединённый сводный  объединять соединять консолидировать" sem="t:abstr" ortho="kanji">統合</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>、</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="現在" transl=" в  настоящее время  нынешний  до сих пор грам настоящее время действительно" sem="t:time" ortho="kanji">現在</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="脅威" transl="угроза опасность" sem="t:abstr" ortho="kanji">脅威</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf" ud="VERB" lex="対する" transl="Против быть обращённымна что-л  быть направленным против послелогпо отношению к  ">対する</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="抵抗" transl=" сопротивление противодействие  сопротивляться противодействовать эл  тех сопротивление" sem="t:abstr" ortho="kanji">抵抗</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="力" transl="Сила сила мощь энергия сила могущество власть способность к чему-л   усилия старания" sem="t:abstr" ortho="kanji">力</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,inf" ud="VERB" lex="作る" transl="Делать делать создавать изготовлять возделывать выращивать готовить еду учреждать организовывать придавать вид подкрашивать вырабатывать воспитывать выдумывать" ortho="hiragana">つくる</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="為" transl="Делать -для ради чтобы -благодаря из-за связ польза интересы пойти на пользу" ortho="hiragana">ため</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>》</w>
+			</se>
+		</para>
+		<para id="9">
+			<se lang="ru">Итак, почему же сейчас поставили вопрос о преступлениях СССР и коммунизма?</se>
+			<se lang="ja">
+				<w>
+					<ana gr="CONJ" ud="SCONJ,CCONJ" lex="では" transl="союзну тогда значит в таком случае итак" ortho="hiragana">では</ana>
+				</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="何故" transl="почему отчего" ortho="kanji">何故</ana>
+				</w>
+				<w>、</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="共産" transl="общность имуществав сочетанияхкоммунистический" sem="top:politics,t:abstr" ortho="kanji">共産</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="犯罪" transl="преступление" sem="top:politics,t:abstr" ortho="kanji">犯罪</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="問題" transl="проблема вопрос тема- ставить вопросо чём-л    встать о вопросе   как опред не заслуживающий внимания пустяковый  без проблем" sem="t:abstr" ortho="kanji">問題</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">する</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="のだ" transl="перевод неоднозначен野 невозделанное  поле равнина дикий о растениях и животных篦 древко стрелы" ortho="hiragana">の</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="10">
+			<se lang="ru">Дело в том, что нынешнее правительство России пытается оправдать преступления СССР и коммунистической системы.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="PRO" ud="PRON" lex="それ" transl="это то" ortho="hiragana">それ</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="現在" transl=" в  настоящее время  нынешний  до сих пор грам настоящее время действительно" sem="t:time" ortho="kanji">現在</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="政府" transl="правительство" sem="top:politics,t:orgz" ortho="kanji">政府</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="共産" transl="общность имуществав сочетанияхкоммунистический" sem="top:politics,t:abstr" ortho="kanji">共産</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="体制" transl=" система структура организация строй истэблишмент правящие круги система" sem="t:abstr" ortho="kanji">体制</ana>
+				</w>
+				<w>「</w>
+				<w>」</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,3,tran,vol" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">しよう</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="から" transl="служебная частица" ortho="hiragana">から</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="11">
+			<se lang="ru">«Несмотря на то, что 24 декабря 1989 года Съезд народных депутатов СССР осудил подписание пакта Молотова-Риббентропа в дополнение к другим соглашениям, заключенным с нацистской Германией, российские власти отрицали ответственность за это соглашение и его последствия в августе 2019 года и в настоящее время продвигают мнение о том, что Польша, страны Балтии и Запад являются истинными зачинщиками Второй мировой войны».</se>
+			<se lang="ja">
+				<w>《</w>
+				<w>2019</w>
+				<w>
+					<ana gr="SUFFIX!" ud="SUFFIX!" lex="年" transl="Год год лета возраст срок период эпоха" sem="t:time" ortho="kanji">年</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="政府" transl="правительство" sem="top:politics,t:orgz" ortho="kanji">政府</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="この" transl="этот" ortho="hiragana">この</ana>
+				</w>
+				<w>・</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="リッベントロップ" transl="перевод отсутствует" ortho="katakana">リッベントロップ</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="協定" transl="соглашение договорённость конвенция пакт  договариваться приходить к соглашению" sem="t:abstr" ortho="kanji">協定</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="その" transl="этот только что упомянутый или относящийся к сфере собеседника его её их" ortho="hiragana">その</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="結果" transl="результат эффект  по следствие    в результате вследствие" ortho="kanji">結果</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf" ud="VERB" lex="対する" transl="Против быть обращённымна что-л  быть направленным против послелогпо отношению к  ">対する</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="責任" transl="ответственность" sem="t:abstr" ortho="kanji">責任</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="否定" transl="отрицание  отрицать" sem="t:abstr" ortho="kanji">否定</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="真に" transl="Правда">真に</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="世界" transl="мир свет   мировой всемирный" sem="t:place:other" ortho="kanji">世界</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="大戦" transl="мировая война большая великая война" sem="top:politics,t:abstr" ortho="kanji">大戦</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,s,1,pfv" ud="VERB" lex="引き起こす" transl=" поднимать ставить  вертикально вызывать возбуждать">引き起こした</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="の" transl="эксплетив" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="バルト" transl="перевод отсутствует" ortho="katakana">バルト</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="諸国" transl=" страны ист провинции Японии" sem="top:politics,t:place:other" ortho="kanji">諸国</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="および" transl="служебная частица" ortho="hiragana">および</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="だ" transl="предикатив" ortho="hiragana">である</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="言う" transl="Слово говорить сказать -называться" ortho="hiragana">いう</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="見解" transl="мнение взгляд" sem="t:abstr" ortho="kanji">見解</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="現在" transl=" в  настоящее время  нынешний  до сих пор грам настоящее время действительно" sem="t:time" ortho="kanji">現在</ana>
+				</w>
+				<w>
+					<ana gr="V,2,inf,tran,conj" ud="VERB" lex="広める" transl="Широкий расширять распространять делатьизвестным пропагандировать">広め</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="つつ" transl="служебная частица" ortho="hiragana">つつ</ana>
+				</w>
+				<w>》</w>
+			</se>
+		</para>
+		<para id="12">
+			<se lang="ru">Соответственно в резолюции говорится: «Призывает все государства-члены ЕС дать четкую и принципиальную оценку преступлениям и актам агрессии, совершенным тоталитарными коммунистическими режимами и нацистским режимом».</se>
+			<se lang="ja">
+				<w>
+					<ana gr="CONJ" ud="SCONJ,CCONJ" lex="よって" transl="перевод неоднозначен依って -в силу благодаря на основании -в зависимости от союзпоэтому因って союзпоэтому ввиду чего в силу вышесказанного仍って союзпоэтому ввиду чего в силу вышесказанного" ortho="hiragana">よって</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="決議" transl="решение резолюция  принимать решение выносить резолюцию" sem="top:politics,t:abstr" ortho="kanji">決議</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="で" transl="служебная частица" ortho="hiragana">で</ana>
+				</w>
+				<w>、</w>
+				<w>《</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="全体" transl=" целое   целый весь общий совокупный тотальный  в целом в общем  всего включая всех всё   в целом в общем в совокупности вообще собственно говоря" sem="t:abstr" ortho="kanji">全体</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="共産" transl="общность имуществав сочетанияхкоммунистический" sem="top:politics,t:abstr" ortho="kanji">共産</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="体制" transl=" система структура организация строй истэблишмент правящие круги система" sem="t:abstr" ortho="kanji">体制</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="および" transl="служебная частица" ortho="hiragana">および</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ナチス" transl="ист наци нацист ы нем   нацистский" ortho="katakana">ナチス</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="体制" transl=" система структура организация строй истэблишмент правящие круги система" sem="t:abstr" ortho="kanji">体制</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,pfv" ud="VERB" lex="行う" transl="Идтисовершать осуществлять">行った</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="犯罪" transl="преступление" sem="top:politics,t:abstr" ortho="kanji">犯罪</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="侵略" transl="агрессия вторжение захват" sem="top:politics,t:abstr" ortho="kanji">侵略</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="行為" transl="действие деяние поступок акт поведение   действовать поступать" sem="t:abstr" ortho="kanji">行為</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,3,cnv,conj" ud="VERB" lex="関する" transl="Заставаотносительно  в связи с  ">関して</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1" ud="ADJ" lex="明確だ" transl="ясность определённость  ясный определённый точный   уточнять прояснять" ortho="kanji">明確</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="かつ" transl="служебная частица" ortho="hiragana">かつ</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="原則" transl="принцип общее правило   в принципе" sem="t:abstr" ortho="kanji">原則</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,k,1,pfv" ud="VERB" lex="基づく" transl="Основаосновываться проистекать">基づいた</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="評価" transl="оценка расценка котировка  оценивать расценивать" sem="t:abstr" ortho="kanji">評価</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="V,w,1,inf" ud="VERB" lex="行う" transl="Идтисовершать осуществлять">行う</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="こと" transl="эксплетив" ortho="hiragana">こと</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="全て" transl="Полностью все всё  весь полностью целиком вообще  говоря" ortho="hiragana">すべて</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="加盟" transl="присоединение к союзу и т п  вступление в союз ассоциацию и т п " sem="t:abstr" ortho="kanji">加盟</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="国" transl="Страна государство государственный национальный родина Япония" sem="t:place:other" ortho="kanji">国</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>》</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="次" transl="Следующийследующийзатем далее после вслед за  " sem="t:time" ortho="kanji">次</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="だ" transl="предикатив" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="ようだ" transl="перевод неоднозначен酔う опьянеть напиться быть больным от качки и т п 幼 кн детство младенчество様 такой как похожий вроде    так  как подобно будто по-видимому похоже    так  чтобы   после глагола показывает что действие начало совершаться洋 океан в идиомах用 дело надобность-  пригодность польза-  расходы-  естественные надобности- 要 главное основное суть необходимость陽 Ян солнечное светлое мужское начало  положительный  явно открыто освещённая сторона южный склон горы северный берег реки и т п 姚 Яо китайская фамилия曄 Е китайское имя瑶 псевдоним甬 древняя мера ёмкости  то краткое название города Нинбо癰 мед карбункул" ortho="hiragana">ような</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="こと" transl="эксплетив" ortho="hiragana">こと</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ＥＵ" transl="перевод отсутствует">ＥＵ</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="加盟" transl="присоединение к союзу и т п  вступление в союз ассоциацию и т п " sem="t:abstr" ortho="kanji">加盟</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="国" transl="Страна государство государственный национальный родина Япония" sem="t:place:other" ortho="kanji">国</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+		<para id="13">
+			<se lang="ru">В этой резолюции от членов ЕС требуют следующее: «Мы глубоко обеспокоены усилиями нынешнего российского руководства по искажению исторических фактов и обелением преступлений, совершенных советским тоталитарным режимом, и считаем их опасным компонентом информационной войны против демократической Европы, направленной на разделение Европы, и поэтому призываем Комиссию решительно противодействовать этим усилиям».</se>
+			<se lang="ja">
+				<w>《</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="現在" transl=" в  настоящее время  нынешний  до сих пор грам настоящее время действительно" sem="t:time" ortho="kanji">現在</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="指導" transl="руководство  руководить инструктировать тренировать" sem="t:abstr" ortho="kanji">指導</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="層" transl="Слой слой пласт социальный слой прослойка этаж" sem="t:place:nature" ortho="kanji">層</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="事実" transl=" факт реальность действительность действительно на самом деле" ortho="kanji">事実</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>（</w>
+				<w>）</w>
+				<w>
+					<ana gr="ADV" ud="ADV" lex="めて" transl="перевод отсутствует" ortho="hiragana">めて</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ソビエト" transl="ист советы  депутатов сокр Советский Союзв сочетанияхсоветский" ortho="katakana">ソビエト</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="全体" transl=" целое   целый весь общий совокупный тотальный  в целом в общем  всего включая всех всё   в целом в общем в совокупности вообще собственно говоря" sem="t:abstr" ortho="kanji">全体</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="主義" transl=" принцип доктрина идея курс линия суф    изм" sem="t:abstr" ortho="kanji">主義</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="体制" transl=" система структура организация строй истэблишмент правящие круги система" sem="t:abstr" ortho="kanji">体制</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="V,s,1,pfv" ud="VERB" lex="犯す" transl="Преступник совершать преступление проступок нарушать закон правила не выполнять распоряжений насиловать бесчестить" sem="top:politics">犯した</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="犯罪" transl="преступление" sem="top:politics,t:abstr" ortho="kanji">犯罪</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>（</w>
+				<w>＝</w>
+				<w>）</w>
+				<w>
+					<ana gr="V,3,tran,vol" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">しよう</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">する</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="努力" transl="старания усилия  стараться" sem="t:abstr" ortho="kanji">努力</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="A,ADPRAEDIC,inf,conj" ud="ADJ" lex="深い" transl="Глубокий прям и перенглубокий густой напр о тумане тесный близкий об отношениях поздний о времени года и т п ">深く</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="憂慮" transl="кн забота беспокойство  беспокоиться опасаться" sem="t:abstr" ortho="kanji">憂慮</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="そのような" transl="перевод отсутствует" ortho="hiragana">そのような</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="努力" transl="старания усилия  стараться" sem="t:abstr" ortho="kanji">努力</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="は" transl="служебная частица" ortho="hiragana">は</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="分断" transl="перевод неоднозначен分団 отделение филиал организации общества группа учебная спортивная文壇 литературные круги" sem="t:abstr" ortho="kanji">分断</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="目的" transl="цель задача  длякаких-л целей-- с цельючего-л  в целяхчего-л " sem="t:abstr" ortho="kanji">目的</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="V,3,cnv,tran,conj" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">して</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf" ud="VERB" lex="対する" transl="Против быть обращённымна что-л  быть направленным против послелогпо отношению к  ">対する</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="情報" transl="информация сведения" sem="t:abstr" ortho="kanji">情報</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="戦" transl="Война война сражение борьба состязание конкурс шелестеть" sem="t:abstr" ortho="kanji">戦</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1,inf" ud="ADJ" lex="危険だ" transl="опасность риск  опасный рискованный">危険な</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="要素" transl="важный  элемент  существенный  фактор  неотъемлемая  часть" sem="t:abstr" ortho="kanji">要素</ana>
+				</w>
+				<w>
+					<ana gr="AUX" ud="AUX" lex="だ" transl="предикатив" ortho="hiragana">である</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>。</w>
+				<w></w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="欧州" transl="Европа" ortho="kanji">欧州</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="委員" transl="член комиссии или комитета" sem="t:people" ortho="kanji">委員</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="会" transl="Встреча встречаться собрание заседание встреча вечер законодательный орган общество ассоциация кружок" sem="t:abstr" ortho="kanji">会</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="が" transl="служебная частица" ortho="hiragana">が</ana>
+				</w>
+				<w>
+					<ana gr="PRO" ud="PRON" lex="こうした" transl="перевод отсутствует" ortho="hiragana">こうした</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="努力" transl="старания усилия  стараться" sem="t:abstr" ortho="kanji">努力</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,3,cnv,conj" ud="VERB" lex="対する" transl="Противпо отношению к    против">対して</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="対抗" transl=" соперничество конфронтация антагонизм  соперничать быть в конфронтации сопротивление противодействие  сопротивляться противодействовать" sem="top:recreatop:sports,t:abstr" ortho="kanji">対抗</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">する</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="こと" transl="эксплетив" ortho="hiragana">こと</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>》</w>
+			</se>
+		</para>
+		<para id="14">
+			<se lang="ru">Японии также необходимо сотрудничать с ЕС, чтобы укрепить международное мнение по поводу возврата «северных территорий», незаконно оккупированных Россией.</se>
+			<se lang="ja">
+				<w>
+					<ana gr="S" ud="NOUN" lex="日本" transl="Япония   японский" ortho="kanji">日本</ana>
+				</w>
+				<w>
+					<ana gr="PART,adv" ud="PART" lex="も" transl="служебная частица" ortho="hiragana">も</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ＥＵ" transl="перевод отсутствует">ＥＵ</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="と" transl="служебная частица" ortho="hiragana">と</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="連携" transl="сотрудничество совместные действия" sem="t:abstr" ortho="kanji">連携</ana>
+				</w>
+				<w>、</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="現在" transl=" в  настоящее время  нынешний  до сих пор грам настоящее время действительно" sem="t:time" ortho="kanji">現在</ana>
+				</w>
+				<w>
+					<ana gr="PART,conj" ud="PART" lex="の" transl="служебная частица" ortho="hiragana">の</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="ロシア" transl="Россия  российский русский" ortho="katakana">ロシア</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="に" transl="служебная частица" ortho="hiragana">に</ana>
+				</w>
+				<w>
+					<ana gr="V,r,1,cnv,tran,conj" ud="VERB" lex="因る" transl="Причинапроистекатьиз чего-л " ortho="hiragana">よって</ana>
+				</w>
+				<w>
+					<ana gr="A,ADNOM1" ud="ADJ" lex="不法だ" transl="незаконность несправедливость неправомерность противозаконность   незаконный" sem="top:politics" ortho="kanji">不法</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="占拠" transl="занятиечего-л  оккупация  занимать оккупировать водворятьсягде-л " sem="top:politics,t:abstr" ortho="kanji">占拠</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="北方" transl=" северное направление север     на север  северный северные районы" sem="t:place:funct" ortho="kanji">北方</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="領土" transl="территория владения" sem="top:politics,t:place:other" ortho="kanji">領土</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="返還" transl="возвращение восстановление возмещениеюр реституция" sem="t:abstr" ortho="kanji">返還</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="支持" transl="поддержка  поддерживать оказывать поддержку" sem="t:abstr" ortho="kanji">支持</ana>
+				</w>
+				<w>
+					<ana gr="V,3,inf,tran" ud="VERB" lex="する" transl=" делать -делатьчто-л из кого-чего-л  превращатьво что-л  -считатьчем-л  -быть выступать работатькем-л  -иметь отличатьсячем-л  связ стоить обходитьсяво что-л  проходить о времени глаголообразующий формант" ortho="hiragana">する</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="国際" transl=" международный интернациональный" sem="t:abstr" ortho="kanji">国際</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="世論" transl="общественное мнение" sem="top:politics,t:abstr" ortho="kanji">世論</ana>
+				</w>
+				<w>
+					<ana gr="PART,case" ud="PART" lex="を" transl="служебная частица" ortho="hiragana">を</ana>
+				</w>
+				<w>
+					<ana gr="S" ud="NOUN" lex="もの" transl="эксплетив" ortho="hiragana">もの</ana>
+				</w>
+				<w>。</w>
+			</se>
+		</para>
+	</body>
+</html>
